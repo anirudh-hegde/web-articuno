@@ -3,6 +3,7 @@
 webarticuno is package which can be used to open the website directly depending on OS.
 
 ## Build Instructions
+Note: You can create your own directory
 - Create a directory flora
 ```sh
 mkdir flora
