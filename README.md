@@ -1,4 +1,4 @@
-# webarticuno
+# WebArticuno
 
 webarticuno is package which can be used to open the website directly depending on OS.
 
